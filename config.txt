@@ -1,4 +1,4 @@
-token=NDkxNTQ2OTkwMjkxODQ1MTUw.Dqtbig.NRJBOUaX54J2R4tHY43HLuSrLVg
+token=NTAyNTg0ODUzMjA0NTY2MDE2.DrRskw.6g87c3TFZS_I54eelwijdjRz928
 owner=466425075487342615
 prefix=2
 game=Zombie Clan
